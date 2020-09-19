@@ -18,7 +18,7 @@
 #include <inventory-dialog>
 #include <container-dialog>
 
-#include <YSI\y_hooks>
+#include <YSI_Coding\y_hooks>
 
 
 // CRAFT_MAX_CRAFT_SET controls the total amount of "craft-sets" which are individual recipes for
